@@ -1,0 +1,24 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.tmp
+~$*.docx
+
+# Node modules
+node_modules/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Temporary workspace scratch directories
+Lab3_Monitoring_Logging_DevSecOps/
+Lab4_Enterprise_DevOps/
+Lab4_Tasks/
+lab-3/
+lab-4/
+devops/
+package.json
+sync_and_commit_labs.py
+prepare_clean_repo.py

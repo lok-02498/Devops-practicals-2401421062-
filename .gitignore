@@ -1,0 +1,19 @@
+# Word temporary lock files
+~$*.docx
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Terraform cache
+.terraform/
+*.tfstate
+*.tfstate.backup
+
+# Temporary files
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
